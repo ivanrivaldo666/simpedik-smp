@@ -1,7 +1,8 @@
 {
   "name": "SIMPPedik",
   "short_name": "SIMPEDIK",
-  "start_url": "https://ivanrivaldo666.github.io/simpedik-smp/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#667eea",
